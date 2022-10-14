@@ -9,5 +9,5 @@ https://llleoli.github.io/posts/3eeb.html
 https://llleoli.github.io/manifest.json
 https://llleoli.github.io/
 https://llleoli.github.io/tags/JavaScript/
-https://llleoli.github.io/tags/Java/
 https://llleoli.github.io/tags/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/
+https://llleoli.github.io/tags/Java/
