@@ -50,7 +50,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EMNLP 2025 Oral</div>
+      <div class="badge">EMNLP 2025</div>
       <img src='images/DiffusionAttacker.png' alt="DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak" width="100%" height="500">
     </div>
   </div>
@@ -105,7 +105,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EMNLP 2024 Oral</div>
+      <div class="badge">EMNLP 2024</div>
       <img src='images/ASETF.png' alt="ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings" width="100%" height="500">
     </div>
   </div>
