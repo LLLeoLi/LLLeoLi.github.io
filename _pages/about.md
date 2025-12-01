@@ -120,6 +120,10 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
   </div>
 </div>
 
+# 📝 Preprints
+
+- [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405), Yesheng Liu, Hao Li, Haiyu Xu, Baoqi Pei, Jiahao Wang, Mingxuan Zhao, Jingshu Zheng, Zheqi He, JG Yao, Bowen Qin, Xi Yang, Jiajun Zhang
+
 - [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
 
 - [SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=iZcvrH8AAAAJ&citation_for_view=iZcvrH8AAAAJ:Y0pCki6q_DkC), Shanghai AI Lab
