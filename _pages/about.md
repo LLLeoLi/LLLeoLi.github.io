@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). During my internships at [Shanghai AI Lab](https://www.shlab.org.cn/), and [BAAI](https://www.baai.ac.cn/), I was honored to be advised by Prof. [Jing Shao](https://amandajshao.github.io/), and Jinge Yao.
 
-My previous research focused on the safety alignment of LLM and VLM, and I am now seeking a PhD position in LLM long-horizon reasoning research for 2027 Fall.
+My previous research focused on the safety alignment of LLM and VLM, and I am now seeking a PhD position for 2027 Fall.
 
 
 # 🔥 News
