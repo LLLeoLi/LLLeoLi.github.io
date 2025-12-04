@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). During my internships at [Shanghai AI Lab](https://www.shlab.org.cn/), and [BAAI](https://www.baai.ac.cn/), I was honored to be advised by Prof. [Jing Shao](https://amandajshao.github.io/), and Jinge Yao.
+I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.).
 
 My previous research focused on the safety alignment of LLM and VLM, and I am now seeking a PhD position for 2027 Fall.
 
@@ -50,7 +50,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EMNLP 2025</div>
+      <div class="badge">EMNLP 2025 Oral</div>
       <img src='images/DiffusionAttacker.png' alt="DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak" width="100%" height="500">
     </div>
   </div>
@@ -105,7 +105,7 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">EMNLP 2024</div>
+      <div class="badge">EMNLP 2024 Oral</div>
       <img src='images/ASETF.png' alt="ASETF: A Novel Method for Jailbreak Attack on LLMs through Translate Suffix Embeddings" width="100%" height="500">
     </div>
   </div>
