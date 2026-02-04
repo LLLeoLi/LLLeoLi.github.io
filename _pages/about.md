@@ -139,6 +139,8 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 - *2025*, National Scholarship in China.
 - *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
 
+# 🧩 Academic Services
+- Conference Review: ARR
 
 # 💻 Internships
 - *2025.08 - present*, VLM post-training & evaluation, BAAI, Beijing
