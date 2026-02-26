@@ -23,11 +23,15 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 ReVeL is accepted by CVPR 2026. 
 - *2025.08*: &nbsp;🎉🎉 Two papers (LARF and DIffusionAttacker) are accepted by EMNLP 2025 and DIffusionAttacker is selected as Oral Presentation. 
 - *2025.03*: &nbsp;🎉🎉 Two papers (ActorBreaker and VLSBench) are accepted by ACL 2025 and ActorBreaker is selected as Outstanding Paper.
 - *2024.09*: &nbsp;🎉🎉 ASETF is accepted by EMNLP 2024 and selected as Oral Presentation.
 
 # 📝 Publications 
+
+- [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405), Yesheng Liu, Hao Li, Haiyu Xu, Baoqi Pei, Jiahao Wang, Mingxuan Zhao, Jingshu Zheng, Zheqi He, JG Yao, Bowen Qin, Xi Yang, Jiajun Zhang
+
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -123,8 +127,6 @@ My previous research focused on the safety alignment of LLM and VLM, and I am no
 # 📝 Preprints
 
 - [Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589), Hao Wang, Yanting Wang, Hao Li, Rui Li, Lei Sha
-
-- [Beyond Multiple Choice: Verifiable OpenQA for Robust Vision-Language RFT](https://arxiv.org/abs/2511.17405), Yesheng Liu, Hao Li, Haiyu Xu, Baoqi Pei, Jiahao Wang, Mingxuan Zhao, Jingshu Zheng, Zheqi He, JG Yao, Bowen Qin, Xi Yang, Jiajun Zhang
 
 - [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
 
