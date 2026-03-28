@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). I was honored to be advised  by [Jing Shao](https://amandajshao.github.io/), JG Yao, and [Junxian He](https://amandajshao.github.io/).
+I am a second-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). I was honored to be advised  by [Jing Shao](https://amandajshao.github.io/), JG Yao, and [Junxian He](https://jxhe.github.io/).
 
 My previous research focused on the safety alignment of AI and long-horizon reasoning, and I am now seeking a PhD position for 2027 Fall.
 
