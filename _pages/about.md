@@ -23,6 +23,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 SSP is accepted by ACL 2026 Findings. 
 - *2026.02*: &nbsp;🎉🎉 ReVeL is accepted by CVPR 2026. 
 - *2025.08*: &nbsp;🎉🎉 Two papers (LARF and DIffusionAttacker) are accepted by EMNLP 2025 and DIffusionAttacker is selected as Oral Presentation. 
 - *2025.03*: &nbsp;🎉🎉 Two papers (ActorBreaker and VLSBench) are accepted by ACL 2025 and ActorBreaker is selected as Outstanding Paper.
@@ -30,7 +31,25 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
 # 📝 Publications 
 
- 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ACL 2026 Findings</div>
+      <img src='images/revel.png' alt="Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay" width="100%" height="500">
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  [Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589)
+  
+  Hao Wang, Yanting Wang, **Hao Li**, Rui Li, Lei Sha
+
+  <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
+  </div>
+</div>
+
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -141,8 +160,6 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 </div>
 
 # 📝 Preprints
-
-- [Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay](https://arxiv.org/abs/2601.10589), Hao Wang, Yanting Wang, Hao Li, Rui Li, Lei Sha
 
 - [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
 
