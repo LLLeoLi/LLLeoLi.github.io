@@ -35,7 +35,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
   <div class='paper-box-image'>
     <div>
       <div class="badge">ACL 2026 Findings</div>
-      <img src='images/revel.png' alt="Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay" width="100%" height="500">
+      <img src='images/ssp.png' alt="Be Your Own Red Teamer: Safety Alignment via Self-Play and Reflective Experience Replay" width="100%" height="500">
     </div>
   </div>
 
