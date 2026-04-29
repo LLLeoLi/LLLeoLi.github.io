@@ -159,7 +159,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
   </div>
 </div>
 
-# 📝 Preprints
+# 📝 Tech Reports
 
 - [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
 
@@ -175,7 +175,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 - *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
 
 # 🧩 Academic Services
-- Conference Review: ARR
+- Conference Review: ACL, EMNLP
 
 # 💻 Internships
 - *2026.03 - present*, Agentic RL, TikTok AI Innovation Center
