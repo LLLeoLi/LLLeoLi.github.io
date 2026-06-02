@@ -159,7 +159,9 @@ My previous research focused on the safety alignment of AI and long-horizon reas
   </div>
 </div>
 
-# 📝 Tech Reports
+# 📝 Preprint
+
+- [SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530), **Hao Li**\*, Jingkun An\*, Zijun Song\*, Pengyu Zhu, Rui Li, Hao Wang, Wendi Feng, Yesheng Liu, Lijun Li, Jin-Ge Yao, Lei Sha
 
 - [AISafetyLab: A Comprehensive Framework for AI Safety Evaluation and Improvement](https://arxiv.org/abs/2502.16776), CoAI & Lesca Group
 
