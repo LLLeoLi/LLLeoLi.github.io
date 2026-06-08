@@ -177,9 +177,10 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 - *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
 
 # 🧩 Academic Services
-- Conference Review: ACL, EMNLP
+- Conference Review: ACL, EMNLP, NAACL
+- Workshop Challenge Organizer: Trustworthy Multi-modal Foundation Models and AI Agents ([TiFA](https://icml-tifa.github.io/)) in ICML 2024.
 
 # 💻 Internships
-- *2026.03 - present*, Agentic RL, TikTok AI Innovation Center
-- *2025.08 - 2026.02*, VLM post-training & evaluation, BAAI
+- *2026.03 - 2026.06*, Agentic RL, TikTok AI Innovation Center
+- *2025.08 - 2026.01*, VLM post-training & evaluation, BAAI
 - *2024.07 – 2025.07*, LLM and VLM safety, Shanghai AI Lab
