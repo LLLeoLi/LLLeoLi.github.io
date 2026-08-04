@@ -170,7 +170,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 - *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
 
 # 🧩 Academic Services
-- Conference Review: ACL, EMNLP, NAACL
+- Conference Review: ACL, EMNLP, NAACL, AAAI
 - Workshop Challenge Organizer: Trustworthy Multi-modal Foundation Models and AI Agents ([TiFA](https://icml-tifa.github.io/)) in ICML 2024.
 
 # 💻 Internships
