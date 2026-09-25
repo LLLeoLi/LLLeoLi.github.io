@@ -23,7 +23,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 SafeSteer is accepted by EMNLP 2026. 
+- *2026.08*: &nbsp;🎉🎉 SafeSteer is accepted by EMNLP 2026 and selected as Oral Presentation. 
 - *2026.04*: &nbsp;🎉🎉 SSP is accepted by ACL 2026 Findings. 
 - *2026.02*: &nbsp;🎉🎉 ReVeL is accepted by CVPR 2026. 
 - *2025.08*: &nbsp;🎉🎉 Two papers (LARF and DIffusionAttacker) are accepted by EMNLP 2025 and DIffusionAttacker is selected as Oral Presentation. 
@@ -35,7 +35,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
 
-  <div class="badge">EMNLP 2026</div>
+  <div class="badge">EMNLP 2026 Oral</div>
 
   [SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530)
 
@@ -170,7 +170,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 - *2023*, Special Prize (Top 1) in "Challenge Cup" Competition of Science Achievement in China.
 
 # 🧩 Academic Services
-- Conference Review: ACL, EMNLP, NAACL, AAAI
+- Conference Review: ACL, EMNLP, NAACL, AAAI, ICLR
 - Workshop Challenge Organizer: Trustworthy Multi-modal Foundation Models and AI Agents ([TiFA](https://icml-tifa.github.io/)) in ICML 2024.
 
 # 💻 Internships
