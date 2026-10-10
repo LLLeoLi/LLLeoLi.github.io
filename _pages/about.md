@@ -35,7 +35,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
 
-  <div class="badge">In Review</div>
+  <div class="badge">Under Review</div>
 
   [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://llleoli.github.io/ProgAgent/assets/ProgAgent.pdf)
 
@@ -49,7 +49,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
 
-  <div class="badge">In Review</div>
+  <div class="badge">Under Review</div>
 
   [Mine Odyssey: Benchmarking Spatial Agentic Intelligence in the Wild](https://mine-odyssey.github.io/assets/mine-odyssey-paper-4230bdd6a58d.pdf)
 
