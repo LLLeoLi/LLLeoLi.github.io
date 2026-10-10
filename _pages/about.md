@@ -43,7 +43,6 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
   <span class="paper-tldr">**TL;DR:** ProgAgent trains agents to orchestrate tools through executable code, keeping intermediate results in runtime variables to limit context growth; a full training stack built on 215 verifiable tasks improves long-horizon tool use, with gains that transfer across tool-calling interfaces.</span>
 
-  [**Project**](https://llleoli.github.io/ProgAgent/)
   </div>
 </div>
 
@@ -58,7 +57,6 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
   <span class="paper-tldr">**TL;DR:** Mine Odyssey evaluates agentic spatial intelligence with 180 navigation tasks across Minecraft reconstructions of 30 real-world locations, testing agents' ability to explore unfamiliar environments, visit ordered waypoints, and recover from navigation errors.</span>
 
-  [**Project**](https://mine-odyssey.github.io/)
   </div>
 </div>
 
