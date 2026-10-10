@@ -35,6 +35,36 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 <div class='paper-box'>
   <div class='paper-box-text' markdown="1">
 
+  <div class="badge">In Review</div>
+
+  [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://llleoli.github.io/ProgAgent/assets/ProgAgent.pdf)
+
+  **Hao Li**\*, Keqing He, Longtao Zheng, Junlong Li, Weihao Zeng, Qian Liu, Yuzhen Huang\*†
+
+  <span class="paper-tldr">**TL;DR:** ProgAgent trains agents to orchestrate tools through executable code, keeping intermediate results in runtime variables to limit context growth; a full training stack built on 215 verifiable tasks improves long-horizon tool use, with gains that transfer across tool-calling interfaces.</span>
+
+  [**Project**](https://llleoli.github.io/ProgAgent/)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-text' markdown="1">
+
+  <div class="badge">In Review</div>
+
+  [Mine Odyssey: Benchmarking Spatial Agentic Intelligence in the Wild](https://mine-odyssey.github.io/assets/mine-odyssey-paper-4230bdd6a58d.pdf)
+
+  Yuxuan Cao\*, Junlong Li\*, **Hao Li**, Junxian He
+
+  <span class="paper-tldr">**TL;DR:** Mine Odyssey evaluates agentic spatial intelligence with 180 navigation tasks across Minecraft reconstructions of 30 real-world locations, testing agents' ability to explore unfamiliar environments, visit ordered waypoints, and recover from navigation errors.</span>
+
+  [**Project**](https://mine-odyssey.github.io/)
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-text' markdown="1">
+
   <div class="badge">EMNLP 2026 Oral</div>
 
   [SafeSteer: Localized On-Policy Distillation for Efficient Safety Alignment](https://arxiv.org/abs/2606.02530)
