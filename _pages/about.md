@@ -51,7 +51,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
   <div class="badge">Under Review</div>
 
-  [Mine Odyssey: Benchmarking Spatial Agentic Intelligence in the Wild](https://mine-odyssey.github.io/assets/mine-odyssey-paper-4230bdd6a58d.pdf)
+  [Mine Odyssey: Benchmarking Spatial Agentic Intelligence in the Wild](https://arxiv.org/abs/2610.11328)
 
   Yuxuan Cao\*, Junlong Li\*, **Hao Li**, Junxian He
 
