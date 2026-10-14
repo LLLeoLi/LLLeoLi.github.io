@@ -37,7 +37,7 @@ My previous research focused on the safety alignment of AI and long-horizon reas
 
   <div class="badge">Under Review</div>
 
-  [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://llleoli.github.io/ProgAgent/assets/ProgAgent.pdf)
+  [ProgAgent: Learning Tool Orchestration through Programmatic Training](https://arxiv.org/pdf/2610.14774)
 
   **Hao Li**\*, Keqing He, Longtao Zheng, Junlong Li, Weihao Zeng, Qian Liu, Yuzhen Huang\*
 
