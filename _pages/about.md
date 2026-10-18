@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). I was honored to be advised  by [Jing Shao](https://amandajshao.github.io/), JG Yao, and [Junxian He](https://jxhe.github.io/).
+I am a third-year master student at the School of AI, Beihang University (BUAA), supervised by Prof. [Lei Sha](https://shalei120.github.io/.). I was honored to be advised  by [Jing Shao](https://amandajshao.github.io/), and [Junxian He](https://jxhe.github.io/).
 
-My previous research focused on the safety alignment of AI and long-horizon reasoning, and I am now seeking a PhD position for 2027 Fall.
-
+My previous research focused on the AI safety alignment and long-horizon agentic RL, and I am now seeking a PhD position for 2027 Fall.
 
 # 🔥 News
-- *2026.08*: &nbsp;🎉🎉 SafeSteer is accepted by EMNLP 2026 and selected as Oral Presentation. 
+- *2026.08*: &nbsp;🎉🎉 SafeSteer is accepted by EMNLP 2026 and selected as Oral Presentation.
 - *2026.04*: &nbsp;🎉🎉 SSP is accepted by ACL 2026 Findings. 
 - *2026.02*: &nbsp;🎉🎉 ReVeL is accepted by CVPR 2026. 
 - *2025.08*: &nbsp;🎉🎉 Two papers (LARF and DIffusionAttacker) are accepted by EMNLP 2025 and DIffusionAttacker is selected as Oral Presentation. 
